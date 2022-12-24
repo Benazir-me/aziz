@@ -1,0 +1,1 @@
+var aziz = prompt ("Aziz nima gap? O'z saytinga xush kelibsan")
